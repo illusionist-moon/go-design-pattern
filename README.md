@@ -6,5 +6,4 @@
 
 * [单例模式](https://github.com/illusionist-moon/go-design-pattern/blob/main/Singleton/singleton.md)
 
-
-### 工厂方法模式
+* [工厂方法模式]()
