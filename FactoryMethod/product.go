@@ -1,4 +1,4 @@
-package FactoryMethodPattern
+package FactoryMethod
 
 type Product interface {
 	Use()

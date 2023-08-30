@@ -1,4 +1,4 @@
-package FactoryMethodPattern
+package FactoryMethod
 
 // 用于检测ConcreteFactory类是否实现了Factory接口
 var _ Factory = &ConcreteFactory{}
